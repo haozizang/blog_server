@@ -9,6 +9,9 @@
 3. third line
 
 ## 3rd-level header
-```cpp
+```c++
 auto x = 3;
+int main() {
+    return 0;
+}
 ```
